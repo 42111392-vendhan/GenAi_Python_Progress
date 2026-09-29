@@ -3,4 +3,4 @@ def pattern(n):
         for y in range(x):
             print(x, end="")
         print()
-pattern(9)
+pattern(8)
